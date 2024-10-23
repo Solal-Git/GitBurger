@@ -15,4 +15,4 @@ Construisez votre propre hamburger en utilisant des fichiers texte pour chaque c
 
   -   🥓 Bacon : Tranche de bacon croustillante.
 
-  -   🍞 Pain bas : Pain brioché du dessous.
+  -   🍞 Pain bas : Pain brioché du dessous. 
