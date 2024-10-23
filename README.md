@@ -13,6 +13,6 @@ Construisez votre propre hamburger en utilisant des fichiers texte pour chaque c
 
   -  6🧀 Fromage : Tranche de cheddar fondant.
 
-    - 5🥓 Bacon : Tranche de bacon croustillante.
+-   5🥓 Bacon : Tranche de bacon croustillante.
 
  -   7🍞 Pain bas : Pain brioché du dessous.
